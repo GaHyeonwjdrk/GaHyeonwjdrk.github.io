@@ -1,0 +1,67 @@
+body {
+    background-color: black;
+    color:wheat;
+    font-family:'Times New Roman', Times, serif
+}
+
+h1 {
+    color: white;
+    font-size:40px
+}
+
+h2 {
+    color:white;
+    font-size: 25px;
+}
+
+ul {
+    text-decoration: underline;
+    text-decoration-color: grey;
+}
+ol {
+    text-decoration: underline;
+    text-decoration-color: wheat;
+    margin-left: 25px;
+    color:wheat
+}
+li {
+    margin-top: 10px;
+}
+p {
+    text-decoration: underline;
+    text-decoration-color: grey;
+    color:whitesmoke;
+    margin-top: 25px;
+}
+img {
+    border-color:white;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 40px;
+}
+
+a {
+    color: white;
+    font-size: 35px
+}
+
+.title {
+    color: whitesmoke
+}
+
+.Steps {
+    color: aqua;
+    float: left;
+}
+
+.Lottery {
+    border-color: darkred
+}
+
+.old {
+    float:right;
+}
+
+.new{
+    color:cyan;
+}
